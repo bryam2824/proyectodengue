@@ -1,0 +1,7 @@
+pip3 install -U scikit-learn scipy matplotlib
+pip install pyTelegramBotAPI
+pip install python-telegram-bot --upgrade
+pip install python-telegram-bot
+pip install sqlite
+pip install tensorflow
+pip install bayesian-optimization
